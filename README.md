@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Vishal Gupta <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Computer Science Student** Studying in [BCA](https://#). My day to day work revolves around Learning More and More langauges for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Computer Application Student** Studying in [BCA](https://#). My day to day work revolves around Learning More and More langauges for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
@@ -33,8 +33,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Senpaixm1&show_icons=true&theme=radical&include_all_commits=true">|
-|--|--|
+<img src="https://github-readme-stats.vercel.app/api?username=Senpaixm1&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
 
